@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doithoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning ros.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat&logo=shell&logoColor=black)
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-10B146?style=flat&logo=lmms&logoColor=white)
 
