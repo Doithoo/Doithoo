@@ -1,0 +1,13 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器/IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 本地生成的文件（如 Actions 输出的 dist/ 目录）
+dist/
