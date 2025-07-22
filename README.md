@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Doithoo/Doithoo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Doithoo/Doithoo/output/github-contribution-grid-snake.svg">
 </picture>
-
 ## Languages and Tools⚒️:
 
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -27,6 +26,9 @@ You can click the Preview link to take a look at your changes.
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=yellow)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
