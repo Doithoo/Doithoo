@@ -26,10 +26,12 @@ You can click the Preview link to take a look at your changes.
 ![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=yellow)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
@@ -41,7 +43,9 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![LLMs](https://img.shields.io/badge/LLMs-10B146?style=flat&logo=lmms&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=Ollama)
 
 ## Contacts with me📬:
 
