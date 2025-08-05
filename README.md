@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Doithoo
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I am currently deeply experiencing vibe coding.🤣
 - ⚡ Fun fact: I like to experience various products
 
 <!---
