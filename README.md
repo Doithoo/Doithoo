@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Contacts with me📬:
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:felixhoo520@gmail.com)
