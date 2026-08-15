@@ -8,11 +8,6 @@
 .idea/
 *.swp
 *.swo
-.cursor/
 
 # 本地生成的文件（如 Actions 输出的 dist/ 目录）
 dist/
-
-# 本地分析/辅助工具
-.codegraph/
-.superpowers/
